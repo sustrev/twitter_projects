@@ -1,0 +1,4 @@
+pandas == 1.5.0
+gensim == 4.2.0
+nltk == 3.7
+tweepy == 4.10.1
